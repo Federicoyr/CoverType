@@ -1,6 +1,8 @@
 # CoverType
 Predicting forest cover type from cartographic variables only (no remotely sensed data).Predicting forest cover type from cartographic variables only (no remotely sensed data).
 
+https://archive.ics.uci.edu/dataset/31/covertype
+
 Abstract: In this paper, we address the optimization of a
 neural network to perform accurate classification on a dataset. In
 Section 1, the hyperparameter tuning of the network is explored
